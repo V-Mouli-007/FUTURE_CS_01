@@ -15,4 +15,4 @@ This repository contains a professional Vulnerability Assessment Report conducte
 * 💻 **Browser DevTools:** Used for manual HTTP response header inspection.
 
 ## 📦 Deliverables
-Please view the `Report/` directory for the full 📄 **PDF presentation** detailing the findings, risk levels, business impacts, and remediation steps. Raw scan outputs and tool evidence are available in the 📁 `Evidence/` folder
+Please view the `Report/` directory for the full 📄 **PDF presentation** detailing the findings, risk levels, business impacts, and remediation steps. Raw scan outputs and tool evidence are available in the 📁 `Evidence/` folder.
